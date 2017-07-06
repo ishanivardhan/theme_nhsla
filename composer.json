@@ -1,0 +1,8 @@
+{
+  "name": "ishanivardhan/theme_nhsla",
+  "description": "Basic NHSLA theme, copy of Clean theme to make Navbuttons plugin work",
+  "type": "moodle-theme",
+  "require": {
+    "composer/installers": "^1.3"
+  }
+}
